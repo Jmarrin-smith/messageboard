@@ -1,0 +1,66 @@
+body {
+  margin: 0%;
+  border: 0%;
+  top: 0%;
+  background-color: rgb(62, 68, 73);
+  height: 100vh;
+}
+
+.header {
+  text-align: center;
+  top: 0%;
+}
+
+.header h1 {
+  top: 20px;
+}
+
+.login {
+  align-content: center;
+  height: 100px;
+  width: 300px;
+  margin: auto;
+}
+
+.signup {
+  display: none;
+  align-content: center;
+  height: 100px;
+  width: 300px;
+  margin: auto;
+}
+
+.messages {
+  text-align: center;
+  width: 100vw;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+}
+
+.message {
+  width: 85vw;
+  height: fit-content;
+  margin: auto;
+  text-align: center;
+}
+
+.user {
+  text-align: left;
+}
+
+.title {
+  text-align: center;
+}
+
+.typemsg {
+  height: 20%;
+  width: fit-content;
+  margin: auto;
+}
+
+.msgbox {
+  width: 300px;
+  height: 50px;
+}
